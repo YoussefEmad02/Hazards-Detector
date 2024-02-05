@@ -1,0 +1,5 @@
+D:\EmbeddedLabs\Debug\BrowseInfo\gpio.pbi: D:\EmbeddedLabs\gpio.c \
+  D:\IAR\arm\inc\c\stdbool.h D:\IAR\arm\inc\c\stdint.h \
+  D:\IAR\arm\inc\c\ycheck.h D:\IAR\arm\inc\c\yvals.h \
+  D:\IAR\arm\inc\c\DLib_Defaults.h D:\IAR\arm\inc\c\DLib_Config_Normal.h \
+  D:\IAR\arm\inc\c\DLib_Product.h

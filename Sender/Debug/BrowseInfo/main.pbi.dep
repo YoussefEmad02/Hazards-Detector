@@ -1,0 +1,21 @@
+C:\Users\karee\OneDrive\Desktop\Lifi_Project\Debug\BrowseInfo\main.pbi: \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\main.c \
+  D:\IAR\arm\inc\c\stdint.h D:\IAR\arm\inc\c\ycheck.h \
+  D:\IAR\arm\inc\c\yvals.h D:\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\IAR\arm\inc\c\DLib_Config_Normal.h D:\IAR\arm\inc\c\DLib_Product.h \
+  D:\IAR\arm\inc\c\stdbool.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\tm4c123gh6pm.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\DIO.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\bitwise_operation.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\types.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\Systic_timer.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\ADC.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\UART.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\HC-SR04.h \
+  D:\IAR\arm\inc\c\stdio.h D:\IAR\arm\inc\c\ysizet.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\LM35.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\HC-05.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\Gpio_interrupt.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\PWM.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\GPTM.h \
+  C:\Users\karee\OneDrive\Desktop\Lifi_Project\Door.h

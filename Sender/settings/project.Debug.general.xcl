@@ -1,0 +1,15 @@
+"D:\IAR\arm\bin\armPROC.dll" 
+
+"D:\IAR\arm\bin\armLMIFTDI.dll" 
+
+"C:\Users\karee\OneDrive\Desktop\Lifi_Project\Debug\Exe\project.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+--flash_loader="D:\IAR\arm\config\flashloader\TexasInstruments\FlashLM4FxxxHxx.board" 
+
+
+
+

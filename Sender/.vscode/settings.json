@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "HC-SR04.C": "cpp",
+    "ADC.C": "cpp"
+  }
+}
